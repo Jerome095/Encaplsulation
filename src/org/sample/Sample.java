@@ -1,4 +1,4 @@
-package org.sample;
+ package org.sample;
 
 public class Sample {
 
