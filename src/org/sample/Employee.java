@@ -51,11 +51,10 @@ public class Employee {
 			System.out.println("employeeName: "+sa.getName() );
 			System.out.println("employeePhno: "+sa.getPhNo() );
 			
-<<<<<<< HEAD
-			System.out.println("not entered");
-=======
 			System.out.println("overed");
->>>>>>> 3fbdb4a42a422f3e8a18719210fc4ebbee7e8137
+
+			System.out.println("not entered");
+
 		}
 		
 		
