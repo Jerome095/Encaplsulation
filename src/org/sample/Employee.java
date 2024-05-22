@@ -50,6 +50,8 @@ public class Employee {
 			System.out.println("employeeid: "+sa.getId() );
 			System.out.println("employeeName: "+sa.getName() );
 			System.out.println("employeePhno: "+sa.getPhNo() );
+			
+			System.out.println("not entered");
 		}
 		
 		
